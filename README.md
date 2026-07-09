@@ -32,7 +32,6 @@ snort-ips-lab/
 ├── README.md
 │
 └── Report.pdf
-
 ```
 
 ### Network Topology
