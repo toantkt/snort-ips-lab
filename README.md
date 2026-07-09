@@ -1,8 +1,10 @@
 # Snort Network Intrusion Prevention System
+
 ![Platform](https://img.shields.io/badge/Platform-VMware-blue)
 ![IPS](https://img.shields.io/badge/IPS-Snort-red)
 ![Network](https://img.shields.io/badge/Network-Security-green)
 ![Detection](https://img.shields.io/badge/Detection-Custom%20Rules-orange)
+
 ## Overview
 
 This project demonstrates the deployment of an inline Intrusion Prevention System (IPS) using Snort.
@@ -24,13 +26,17 @@ snort-ips-lab/
 │
 ├── img/
 │   └── topology.png 
+│
+├── LICENSE
+│
 ├── README.md
+│
 └── Report.pdf
 
 ```
 
-
 ### Network Topology
+
 ![Topology](img/topology.png)
 
 ## Technologies Used
